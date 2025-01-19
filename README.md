@@ -1,14 +1,18 @@
-<h1 align="center">ʜᴇʟʟᴏ ᴍʏ ɴᴀᴍᴇ ɪs
-<img src="https://i.postimg.cc/nVjVqcNP/Poster-Transparent.png" alt="irinque"></img></h1>
 
-<h3 align="center">
-I am a developer from Russia. I can create Telegram, Discord bots using Python.<br/>
-  Also i can make websites using Flask Framework, HTML + CSS.<br/>
-    To store data in my projects i use PostgreSQL<br/><br/>
-      Work since 2022<br/>
-        Bye!
-</h3>
-<div id="profile-stats" align="center">
-  <img alt="My GitHub stats" align=top src="https://github-readme-stats.vercel.app/api?username=irinque&theme=transparent&hide_border=true&text_color=fff">
-  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irinque&hide_border=true&bg_color=00000000&layout=compact&theme=transparent&text_color=fff">
-</div>
+<h1 align="center">ʜᴇʟʟᴏ ᴍʏ ɴᴀᴍᴇ ɪs
+	<img src="https://i.postimg.cc/nVjVqcNP/Poster-Transparent.png" alt="irinque"></img></h1>
+ 
+### About me:
+- 📝 I am practicing on [small projects](https://github.com/irinque?tab=repositories)
+- ☕ I'm currently chilling
+- 📬 Reach me by [Discord](https://discord.gg/uMG9MdDMuY)) and [Telegram](https://t.me/irinque)
+
+### Languages and Skills:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"  />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="50" height="50"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"  width="50" height="50"/>
+
+### My stats:
+![irinque](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irinque&theme=ayu_mirage)
+![Top Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irinque&theme=ayu_mirage)    ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=irinque&theme=ayu_mirage)
+
+
+
